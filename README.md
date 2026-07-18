@@ -1,3 +1,7 @@
+# PaysPlat fork
+
+- 2026-07-18: Release of version v3.62 (nuget v8.1.362.0), based on Unosquare v3.61-beta.1 (compatible with FFmpeg 7) & zgabi v3.61-beta.2 (compatible with FFmpeg 8)
+
 # FFME: *The Advanced WPF MediaElement Alternative*
 
 [![Join the chat at https://gitter.im/ffmediaelement/Lobby](https://badges.gitter.im/ffmediaelement/Lobby.svg)](https://gitter.im/ffmediaelement/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
