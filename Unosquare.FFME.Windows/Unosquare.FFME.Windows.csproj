@@ -35,7 +35,7 @@
 
     <!-- NuGet Package Properties -->
     <!-- https://docs.microsoft.com/en-us/nuget/reference/msbuild-targets#pack-target -->
-    <PackageId>FFME.Windows</PackageId>
+    <PackageId>PaysPlat.FFME.Windows</PackageId>
     <PackageVersion>8.1.362.0</PackageVersion>
     <Version>8.1.362.0</Version>
     <Authors>Mario Di Vece, and Contributors to the FFME project</Authors>
