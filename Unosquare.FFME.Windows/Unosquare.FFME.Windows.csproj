@@ -27,6 +27,7 @@
     <CodeAnalysisRuleSet>..\Analyzers.ruleset</CodeAnalysisRuleSet>
     <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\$(AssemblyName).xml</DocumentationFile>
     <NeutralLanguage>en</NeutralLanguage>
+    <GenerateResourceUsePreserializedResources>true</GenerateResourceUsePreserializedResources>
 
     <!-- Assembly Version Information -->
     <AssemblyVersion>8.1.362.0</AssemblyVersion>
@@ -87,6 +88,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="System.Resources.Extensions" Version="10.0.10" />
   </ItemGroup>
 
   <ItemGroup Condition="'$(TargetFramework)' != 'netcoreapp3.0' AND '$(TargetFramework)' != 'netcoreapp3.1' AND '$(TargetFramework)' != 'net8.0-windows'">
